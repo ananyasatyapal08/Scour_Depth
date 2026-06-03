@@ -1,6 +1,6 @@
 # Scour_Depth 
 
-**Scour_Depth** is a research-/data-science project focused on predicting scour depth over non-uniform sediment beds (and related phenomena) using machine learning (for example XGBoost and PSO) as part of the 10-day research assignment for jet cover-bed scour.  
+**Scour_Depth** is a research data-science project focused on predicting scour depth over non-uniform sediment beds (and related phenomena) using machine learning (for example XGBoost and PSO) as part of the 10-day research assignment for jet cover-bed scour.  
 
 ##  Repository Structure
 
